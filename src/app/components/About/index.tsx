@@ -40,7 +40,7 @@ const About = () => {
               Driven by Passion & Innovation
             </h3>
             <p className="text-gray-700 text-lg text-center md:text-left leading-relaxed">
-              Hello, I'm <span className="font-bold text-blue-900">Nyawargak</span>, a Fullstack Developer with a strong passion for building meaningful digital experiences. I enjoy the process of turning complex problems into intuitive, user-friendly solutions.
+              Hello, I&#39;m <span className="font-bold text-blue-900">Nyawargak</span>, a Fullstack Developer with a strong passion for building meaningful digital experiences. I enjoy the process of turning complex problems into intuitive, user-friendly solutions.
             </p>
 
             <p className="text-gray-700 text-lg text-center md:text-left leading-relaxed">
@@ -48,7 +48,7 @@ const About = () => {
             </p>
 
             <p className="text-gray-700 text-lg text-center md:text-left leading-relaxed">
-              I’m excited about collaborating on innovative projects that challenge me to grow as a developer, and I’m always looking for new opportunities to apply my skills to impactful solutions.
+              I&#39;m excited about collaborating on innovative projects that challenge me to grow as a developer, and I&#39;m always looking for new opportunities to apply my skills to impactful solutions.
             </p>
 
             <a href="#contact" className="inline-block bg-blue-500 text-white px-8 py-4 rounded-full hover:bg-blue-600 transition duration-300 shadow-lg mt-6">
@@ -62,3 +62,4 @@ const About = () => {
 };
 
 export default About;
+
