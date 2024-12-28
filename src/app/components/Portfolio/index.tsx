@@ -6,9 +6,9 @@ const Projects = () => {
   const projectItems = [
     {
       title: 'Themis AI',
-      description: 'This platform empowers Kenyan youth to learn about financial investments like bonds, stocks, and money market funds. Through gamified simulations, users gain an understanding of investment strategies.',
+      description: 'Themis AI: A solution aimed at reducing the backlog of cases in Kenyas judicial system to enhance efficiency and ensure timely justice.',
       link: 'https://github.com/aine-mbabazi/themis_backend.git',
-      image: '/images/Group 42.png',
+      image: '/images/themis.png',
     },
     {
       title: 'Contacts App',
@@ -17,28 +17,23 @@ const Projects = () => {
       image: '/images/contact.png',
     },
     {
-      title: 'Enwallet App',
+      title: 'Androidewallet App',
       description: 'This Android-based application provides a streamlined yet comprehensive tool for managing finances, enabling users to effortlessly log and categorize their income and expenses.',
-      link: 'https://github.com/Gatchang-nyawargak/enwallet-assessment',
+      link: 'https://github.com/aine-mbabazi/AndroideWallet.git',
       image: '/images/wallet.jpeg',
     },
     {
       title: 'School',
       description: 'A school management system built with Django enables admins to track teachers, students, and courses, with data accessed and updated via JSON APIs.',
-      link: 'https://github.com/Gatchang-nyawargak/Rest-apis-django.git',
+      link: 'https://github.com/aine-mbabazi/DataModels.git',
       image: '/images/school.jpeg',
     },
+ 
     {
-      title: 'DashBoard',
-      description: 'I created a responsive analytics dashboard with TypeScript and React to track user engagement through interactive visuals, highlighting my skills in user-focused, data-driven solutions.',
-      link: 'https://github.com/Gatchang-nyawargak/Vivosparks-Frontend.git',
-      image: '/images/Dashboard.png',
-    },
-    {
-      title: 'Vivosparks informational website',
+      title: 'Taishi informational website',
       description: 'A school management system built with Django enables admins to track teachers, students, and courses, with data accessed and updated via JSON APIs.',
-      link: 'https://github.com/Gatchang-nyawargak/VivoSparks-Informational.git',
-      image: '/images/info.png',
+      link: 'https://github.com/aine-mbabazi/Taishi-Informational.git',
+      image: '/images/themis.png',
     },
   ];
 
