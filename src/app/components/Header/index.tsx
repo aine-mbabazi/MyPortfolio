@@ -17,7 +17,7 @@ const Header = () => {
             className="text-[44px] text-white font-serif font-bold ml-7"
             style={{ fontFamily: "'Dancing Script', cursive" }}
           >
-            Nyawargak Gatchang
+            Patricia Ainembabazi
           </p>
         </div>
 

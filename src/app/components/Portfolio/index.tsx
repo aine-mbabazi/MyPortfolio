@@ -5,9 +5,9 @@ import Image from 'next/image';
 const Projects = () => {
   const projectItems = [
     {
-      title: 'Investika Mobile App',
+      title: 'Themis AI',
       description: 'This platform empowers Kenyan youth to learn about financial investments like bonds, stocks, and money market funds. Through gamified simulations, users gain an understanding of investment strategies.',
-      link: 'https://github.com/Gatchang-nyawargak/Vivosparks-Mobile.git',
+      link: 'https://github.com/aine-mbabazi/themis_backend.git',
       image: '/images/Group 42.png',
     },
     {

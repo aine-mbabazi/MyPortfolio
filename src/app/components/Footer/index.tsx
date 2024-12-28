@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Social Media Icons */}
           <div className="flex justify-center space-x-6 mb-6">
             <a
-              href="https://x.com/Gatch2Nyawargak"
+              href="https://x.com/aine_mababazi"
               aria-label="Twitter Profile"
               className="text-white hover:text-pink-500 transition-colors"
               target="_blank"
@@ -19,7 +19,7 @@ const Footer = () => {
               <FaTwitter size={24} />
             </a>
             <a
-              href="https://github.com/Gatchang-nyawargak"
+              href="https://github.com/aine-mbabazi"
               aria-label="GitHub Profile"
               className="text-white hover:text-pink-500 transition-colors"
               target="_blank"
@@ -28,7 +28,7 @@ const Footer = () => {
               <FaGithub size={24} />
             </a>
             <a
-              href="https://www.linkedin.com/in/nyawargak-gatchang/"
+              href="https://www.linkedin.com/in/patricia-ainembabazi-4874482b3/"
               aria-label="LinkedIn Profile"
               className="text-white hover:text-pink-500 transition-colors"
               target="_blank"
@@ -37,15 +37,15 @@ const Footer = () => {
               <FaLinkedinIn size={24} />
             </a>
             <a
-              href="mailto:nyawargakgatchang@gmail.com"
-              aria-label="Email Nyawargak Gatchang"
+              href="mailto:patainembabazi@gmail.com"
+              aria-label="Email Patricia Ainembabazi"
               className="text-white hover:text-pink-500 transition-colors"
             >
               <FaEnvelope size={24} />
             </a>
           </div>
           {/* Email Address */}
-          <p className="text-lg text-gray-300 mb-4">nyawargakgatchang@gmail.com</p>
+          <p className="text-lg text-gray-300 mb-4">patainembabazi@gmail.com</p>
           {/* Footer Text */}
           <p className="text-gray-500 text-sm">
             &copy; {new Date().getFullYear()} Personal Portfolio. All rights reserved.

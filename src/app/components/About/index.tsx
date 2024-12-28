@@ -40,7 +40,7 @@ const About = () => {
               Driven by Passion & Innovation
             </h3>
             <p className="text-gray-700 text-lg text-center md:text-left leading-relaxed">
-              Hello, I&#39;m <span className="font-bold text-blue-900">Nyawargak</span>, a Fullstack Developer with a strong passion for building meaningful digital experiences. I enjoy the process of turning complex problems into intuitive, user-friendly solutions.
+              Hello, I&#39;m <span className="font-bold text-blue-900">Patricia Ainembabazi</span>, a Fullstack Developer with a strong passion for building meaningful digital experiences. I enjoy the process of turning complex problems into intuitive, user-friendly solutions.
             </p>
 
             <p className="text-gray-700 text-lg text-center md:text-left leading-relaxed">
